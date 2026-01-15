@@ -16,6 +16,7 @@ Das Projekt unterstützt **Pathtracing**, **Phong- und Glass-Materialien**, **Te
 
 ### !! Hinweis !!
 Der Ordner "tools" wurde durch Dr. Henrik Tramberend bereitgestellt
+-> henrik.tramberend@bht-berlin.de
 
 -**Raytracing und Pathtracing**
   - Primärstrahlen, Sekundärstrahlen für Reflexion und Transparenz
